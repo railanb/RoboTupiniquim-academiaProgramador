@@ -1,6 +1,4 @@
-# Pedra / Papel / Tesoura
-
-# Jogo de Adivinhação
+# # ROBÔ TUPINIQUIM 
 
 Projeto desenvolvido durante curso da [ACADEMIA DO PROGRAMADOR](https://www.academiadoprogramador.net/inicio) 2026
 
